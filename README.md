@@ -5,7 +5,7 @@
 | Field | Details |
 |-------|---------|
 | **Student Name** | Vedant ashtikar |
-| **Registration Number** | 24BCE11482|
+| **Registration Number** | 24BCE11482 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python Programming Language |
 | **License** | PSF License v2 |
